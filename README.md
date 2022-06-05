@@ -3,8 +3,7 @@
 
 
 上线正常：
-![图片](https://user-images.githubusercontent.com/83112602/172033681-ab4119f1-6f79-434a-ac63-e007d5dab1a6.png)
-
+![图片](https://user-images.githubusercontent.com/83112602/172034365-f2cad5b2-ca28-4f21-9d4a-6fe4c49f2dc6.png)
 360
 ![图片](https://user-images.githubusercontent.com/83112602/172033663-1c5b0205-5dce-4645-8c78-125154f901f1.png)
 
