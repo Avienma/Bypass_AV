@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project5.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  inject.cpp
+C:\Users\87251\Downloads\Bypass_AV-main\Bypass_AV-main\映射注入\Project5\inject.cpp(11,28): warning C4311: “类型强制转换”: 从“char *”到“DWORD”的指针截断
+C:\Users\87251\Downloads\Bypass_AV-main\Bypass_AV-main\映射注入\Project5\inject.cpp(11,28): warning C4302: “类型强制转换”: 从“char *”到“DWORD”截断
+  Project5.vcxproj -> C:\Users\87251\Downloads\Bypass_AV-main\Bypass_AV-main\映射注入\x64\Debug\Loader.exe
